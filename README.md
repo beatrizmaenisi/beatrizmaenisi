@@ -4,6 +4,9 @@
 - Gosto muito de aprender assuntos sobre Tecnologia.
 - Quero desenvolver cada vez mais as minhas habilidades.
 - Gosto muito de temas voltado a dados e inteligência artificial.
+- Atualmente, atuo como Analista de TI voluntária no Instituto de Desenvolvimento Evangélico (IDE)
+
+Link do meu portfólio: [Clique aqui](https://portfolio-beatrizmaenisi.netlify.app/)
 
 ## Habilidades ✨
 
