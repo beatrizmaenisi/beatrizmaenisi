@@ -27,6 +27,8 @@ Link do meu portfólio: [Clique aqui](https://portfolio-beatrizmaenisi.netlify.a
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/322d9fc9-1398-435e-ae27-4caf32672d13" height="70" width="70"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3faf0c0d-3d72-4a07-86dc-27c768c1b846" height="70" width="70"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 
